@@ -15,7 +15,7 @@
 }
 
 .logo {
-  height: 2.2rem;
+  height: 3.4rem;
 }
 
 /**************************/
@@ -180,9 +180,10 @@
 }
 
 .logos img {
-  height: 3.2rem;
-  filter: brightness(0);
-  opacity: 50%;
+  height: 8.4rem;
+  mix-blend-mode: multiply;
+  filter: grayscale(1);
+  opacity: 80%;
 }
 
 /**************************/
